@@ -1,0 +1,11 @@
+blavish-website/
+│
+├─ index.html
+├─ style.css
+├─ script.js
+├─ images/
+│   ├─ logo.png
+│   ├─ gallery1.jpg
+│   ├─ gallery2.jpg
+│   ├─ product1.jpg
+│   └─ product2.jpg
